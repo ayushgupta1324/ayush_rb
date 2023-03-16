@@ -1,19 +1,19 @@
 {
     "users": [
-        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
+        { "id": 1,"email":"nareshkumarh@live.com", 
         "username":"Naresh", "password":"naresh123"
         },
-        { "id": 2, "name":"Tushant Kumar", "email":"tushant@gmail.com", 
+        { "id": 2,"email":"tushant@gmail.com", 
             "username":"Tushant", "password":"tushant123"
         },
-        { "id": 3, "name":"Ayush Gupta", "email":"ayush@gmail.com", 
+        { "id": 3,"email":"ayush@gmail.com", 
             "username":"", "password":"ayush123"
         },
-        { "id": 4, "name":"Ajay Kumar", "email":"ajay@gmail.com", 
+        { "id": 4,"email":"ajay@gmail.com", 
             "username":"Ajay", "password":"ajay123"
         },
         {
-            "id": 5, "name":"Eve Holt", "email":"eve.holt@reqres.in", 
+            "id": 5,"email":"eve.holt@reqres.in", 
             "username":"Eve", "password":"cityslicka"
         }
     ],
