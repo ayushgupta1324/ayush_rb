@@ -26,7 +26,8 @@
               "no_of_persons":"2",
               "capacity":"3",
               "cost":"4000",
-              "booked":false
+              "booked":false,
+              "id":1
         },
         {
           "category": "Family",
@@ -36,7 +37,8 @@
               "no_of_persons":"2",
               "capacity":"2",
               "cost":"3000",
-              "booked":false
+              "booked":false,
+              "id":2
         },
         {
           "category": "Family",
@@ -46,7 +48,8 @@
               "no_of_persons":"1",
               "capacity":"3",
               "cost":"1600",
-              "booked":false
+              "booked":false,
+              "id":3
         },
         {
           "category": "Deluxe",
@@ -56,7 +59,8 @@
               "no_of_persons":"2",
               "capacity":"3",
               "cost":"5000",
-              "booked":false
+              "booked":false,
+              "id":4
         },
         {
           "category": "Deluxe",
@@ -66,7 +70,8 @@
               "no_of_persons":"2",
               "capacity":"3",
               "cost":"2500",
-              "booked":false
+              "booked":false,
+              "id":5
         },
         {
           "category": "Deluxe",
@@ -76,7 +81,8 @@
               "no_of_persons":"2",
               "capacity":"3",
               "cost":"3000",
-              "booked":false
+              "booked":false,
+              "id":6
         },
         {
           "category": "Suite",
@@ -86,7 +92,8 @@
               "no_of_persons":"2",
               "capacity":"3",
               "cost":"6000",
-              "booked":false
+              "booked":false,
+              "id":7
         },
         {
           "category": "Suite",
@@ -96,7 +103,8 @@
               "no_of_persons":"2",
               "capacity":"1",
               "cost":"1000",
-              "booked":false
+              "booked":false,
+              "id":8
         },
         {
           "category": "Suite",
@@ -106,7 +114,8 @@
               "no_of_persons":"2",
               "capacity":"3",
               "cost":"1500",
-              "booked":false
+              "booked":false,
+              "id":9
         }
       ]
 
